@@ -8,8 +8,6 @@
 
 #### Git: URL : [here]()
 
-## Steps for Triggering the Build through Jenkins:
-
 - **First Time User** Clone this Repo using: git clone [here]()
 - Make necessary changes in java files for the Web service on your local system
 - $git status
