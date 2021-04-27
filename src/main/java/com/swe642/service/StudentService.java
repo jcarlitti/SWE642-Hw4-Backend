@@ -7,6 +7,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/*
+ * Methods to manipulate the students.
+ */
+
 @Service
 public class StudentService {
     @Autowired

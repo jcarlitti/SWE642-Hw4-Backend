@@ -6,6 +6,11 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
+/*
+ * Student JPA.  Replaces the JDBC class from hw3
+ * Each field maps to a column in the DB
+ */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
